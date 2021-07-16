@@ -44,7 +44,7 @@ int main()
             }
         }
     }
-    if(c=1)
+    if(c==1)
     {
         cout<<"segment index is "<<r+1<<" and the value of segment is "<<A[r]<<" , where turtle crosses his path"<<endl;
     }
